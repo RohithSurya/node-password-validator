@@ -109,6 +109,11 @@ There's another project that has a similar purpose, [zxcvbn](https://github.com/
 
 Submit an issue (above in the issues tab)
 
+## To Do
+
+1. Write unit tests
+2. Make an async version if block event loop is an issue
+
 ## Transient Dependencies
 
 None! And it will stay that way, except of course for the standard library.
